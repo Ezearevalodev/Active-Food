@@ -1,0 +1,24 @@
+Breakpoints:
+
+- PC (1328-1920)
+- Notebook (960-1328)
+- Tablet (480-960)
+- Mobile (0-480)
+
+Imágenes:
+
+- JPEG (Joint Photographic Experts Group): Es un formato de compresión lossy que es adecuado para imágenes con una gran cantidad de detalles y tonos de color.
+- PNG (Portable Network Graphics): Es un formato de compresión lossless que es adecuado para imágenes con transparencias y líneas claras.
+- WebP: Es un formato de imagen de Google que ofrece una tasa de compresión similar a JPEG y PNG, pero con una velocidad de carga más rápida.
+
+Videos:
+
+- MP4 (MPEG-4 Part 14): Es un formato de vídeo de alta calidad que es compatible con la mayoría de los navegadores y dispositivos.
+- WebM: Es un formato de vídeo abierto desarrollado por Google que ofrece una velocidad de carga rápida y una calidad de imagen similar a MP4.
+- OGV (Ogg Theora Video): Es un formato de vídeo abierto que ofrece una velocidad de carga rápida y una buena calidad de imagen, pero es menos compatible con los navegadores y dispositivos que MP4 y WebM.
+
+Audios:
+
+- MP3 (MPEG-1 Audio Layer III): Es un formato de audio de alta calidad que es compatible con la mayoría de los navegadores y dispositivos.
+- Ogg Vorbis: Es un formato de audio abierto que ofrece una velocidad de carga rápida y una calidad de sonido similar a MP3.
+- WAV (Waveform Audio File Format): Es un formato de audio sin compresión que ofrece una calidad de sonido de alta calidad, pero con una velocidad de carga más lenta que MP3 y Ogg Vorbis.
